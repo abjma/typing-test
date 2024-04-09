@@ -1,0 +1,94 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  color-scheme: light dark;
+
+  --green: #00b755;
+  --yellow: #daaf38;
+  --red: #ca4754;
+  --black: #222;
+  --gray: #999;
+}
+
+body {
+  background: var(--black);
+  font-family: 'Roboto Mono', monospace;
+  display: grid;
+  place-content: center;
+  padding: 32px;
+}
+
+section {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  max-width: 500px;
+}
+
+time {
+  color: var(--yellow);
+}
+
+input {
+  z-index: -999;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  opacity: 0.2;
+}
+
+p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px 8px;
+  margin: 0;
+}
+
+p-letter {
+  color: var(--gray);
+  position: relative;
+
+  &.active::before {
+    content: '|';
+    color: var(--yellow);
+    font-size: 14px;
+    position: absolute;
+    left: -65%;
+    animation: 1s blink infinite ease-in-out;
+  }
+
+  &.active.is-last::before {
+    left: 65%;
+  }
+
+  &.valid {
+    background: hsla(148, 100%, 36%, 0.4);
+    border-radius: 2px;
+    border: #006d33 solid 0.5px;
+  }
+
+  &.invalid {
+    background: hsl(354, 55%, 54%, 0.4);
+    border-radius: 2px;
+    border: #8b3039 solid 0.4px;
+  }
+}
+
+p-word {
+  &.invalid {
+    padding-bottom: 1px;
+    border-bottom: #daaf38 solid 2px;
+  }
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+
+  60% {
+    opacity: 0.2;
+  }
+}
