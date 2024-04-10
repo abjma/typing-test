@@ -1,0 +1,52 @@
+
+{
+    "paragraphs": [
+      {
+        "length": 30,
+        "content": "La luz del sol se filtraba a través de las hojas, creando un patrón de sombras danzantes en el suelo del bosque. Los pájaros cantaban, añadiendo música a la belleza del día."     
+      },
+      {
+        "length": 60,
+        "content": "El jardín estaba lleno de flores de todos los colores, creando un tapiz de belleza natural. Los aromas dulces y frescos se mezclaban en el aire, creando una fragancia que era puramente verano. Las abejas zumbaban de flor en flor, recogiendo néctar para su colmena. Los árboles proporcionaban sombra del sol del mediodía, sus hojas susurrando con la brisa. Era un lugar de paz y tranquilidad, un refugio del ajetreo del mundo exterior."
+      },
+      {
+        "length": 90,
+        "content": "El jardín era un oasis de tranquilidad en medio del bullicio de la ciudad. Las flores de colores vibrantes competían por la atención, mientras que las mariposas danzaban de una a otra. Los árboles proporcionaban sombra y frescura, sus hojas susurrando al viento. Los pájaros cantaban desde sus ramas, su música llenando el aire. Un banco de madera invitaba a sentarse y disfrutar de la belleza del lugar. Era un lugar para relajarse, para reflexionar, para soñar. Un lugar donde uno podía olvidarse del mundo por un rato y simplemente ser."
+      },
+      {
+        "length": 120,
+        "content": "El jardín era un oasis de tranquilidad en medio del bullicio de la ciudad. Las flores de colores vibrantes competían por la atención, mientras que las mariposas danzaban de una a otra. Los árboles proporcionaban sombra y frescura, sus hojas susurrando al viento. Los pájaros cantaban desde sus ramas, su música llenando el aire. Un banco de madera invitaba a sentarse y disfrutar de la belleza del lugar. Era un lugar para relajarse, para reflexionar, para soñar. Un lugar donde uno podía olvidarse del mundo por un rato y simplemente ser. A pesar de estar en medio de la ciudad, el jardín era un remanso de paz y tranquilidad, un lugar donde uno podía escapar del estrés y las preocupaciones de la vida cotidiana."
+      }
+    ],
+
+
+    "text-30":[
+        {
+          "text_1": "La luz del sol se filtraba a través de las hojas, creando un patrón de sombras danzantes en el suelo del bosque. Los pájaros cantaban, añadiendo música a la belleza del día.",
+          "text_2": "El aroma del café recién hecho llenaba la cocina, prometiendo el comienzo de un nuevo día. Miró por la ventana, observando cómo el mundo despertaba con la luz del amanecer.",
+          "text_3": "El libro estaba lleno de aventuras y personajes fascinantes, transportándola a mundos lejanos. Cada página era un viaje, cada capítulo una nueva experiencia en su imaginación."
+        }     
+    ],
+    "text-60":[
+        {
+          "text_1": "La luz del sol se filtraba a través de las hojas, creando un patrón de sombras danzantes en el suelo del bosque. Los pájaros cantaban, añadiendo música a la belleza del día. El aire fresco y la tranquilidad del entorno proporcionaban un respiro bienvenido del bullicio de la vida cotidiana.",
+          "text_2": "El aroma del café recién hecho llenaba la cocina, prometiendo el comienzo de un nuevo día. Miró por la ventana, observando cómo el mundo despertaba con la luz del amanecer. El cielo se iluminaba con tonos de rosa y naranja, y el aire fresco de la mañana prometía un día lleno de posibilidades.",
+          "text_3": "El libro estaba lleno de aventuras y personajes fascinantes, transportándola a mundos lejanos. Cada página era un viaje, cada capítulo una nueva experiencia en su imaginación. Se sumergió en las historias, perdiéndose en las vidas y aventuras de los personajes. Cada vez que abría el libro, era como entrar en un nuevo mundo."
+        }     
+    ],
+    "text-90":[
+        {
+          "text_1": "El jardín estaba lleno de flores de todos los colores, creando un tapiz de belleza natural. Los aromas dulces y frescos se mezclaban en el aire, creando una fragancia que era puramente verano. Las abejas zumbaban de flor en flor, recogiendo néctar para su colmena. Los árboles proporcionaban sombra del sol del mediodía, sus hojas susurrando con la brisa. Era un lugar de paz y tranquilidad, un refugio del ajetreo del mundo exterior.",
+          "text_2": "La ciudad estaba llena de vida y energía. Los edificios altos se alzaban hacia el cielo, sus ventanas brillando con las luces de las oficinas y apartamentos. La gente caminaba por las calles, cada uno con su propio destino. Los coches pasaban, sus bocinas sonando en un coro constante. Los vendedores de comida en las esquinas vendían todo tipo de delicias, desde tacos hasta helados. Era un lugar de constante movimiento y cambio, un testimonio de la vida urbana.",
+          "text_3": "El océano era un vasto expanse de azul, sus olas rompiendo en la orilla con un rugido constante. Los gaviotas volaban por encima, sus gritos mezclándose con el sonido del agua. Los cangrejos corrían por la arena, escondiéndose en sus agujeros al menor signo de peligro. Las conchas de mar, suaves y pulidas por el agua, estaban esparcidas por la playa. Era un lugar de belleza salvaje y natural, un recordatorio del poder y la majestuosidad de la naturaleza."
+        }     
+    ],
+    "text-120":[
+        {
+          "text_1": "El jardín era un oasis de tranquilidad en medio del bullicio de la ciudad. Las flores de colores vibrantes competían por la atención, mientras que las mariposas danzaban de una a otra. Los árboles proporcionaban sombra y frescura, sus hojas susurrando al viento. Los pájaros cantaban desde sus ramas, su música llenando el aire. Un banco de madera invitaba a sentarse y disfrutar de la belleza del lugar. Era un lugar para relajarse, para reflexionar, para soñar. Un lugar donde uno podía olvidarse del mundo por un rato y simplemente ser.",
+          "text_2": "La ciudad era un hervidero de actividad. Los edificios se alzaban hacia el cielo, sus ventanas reflejando el sol. La gente caminaba con prisa, cada uno inmerso en su propio mundo. Los coches pasaban zumbando, sus bocinas sonando en un coro constante. Los vendedores de comida vendían sus productos, el aroma de la comida flotando en el aire. Los niños jugaban en los parques, sus risas resonando en el aire. A pesar del caos, había una cierta belleza en la ciudad, una energía que era contagiosa.",
+          "text_3": "El océano era un espectáculo para la vista. Las olas rompían en la orilla, su rugido llenando el aire. Los pájaros volaban por encima, sus gritos mezclándose con el sonido del agua. Los cangrejos corrían por la arena, escondiéndose en sus agujeros al menor signo de peligro. Las conchas de mar, suaves y pulidas por el agua, estaban esparcidas por la playa. Los barcos navegaban en la distancia, sus velas blancas destacando contra el azul del océano. Era un lugar de belleza y serenidad, un recordatorio de la majestuosidad de la naturaleza."
+        }     
+    ]
+  }
+  

@@ -37,7 +37,7 @@ input {
   top: 0;
   left: 0;
   pointer-events: none;
-  opacity: 0.2;
+  opacity: 0;
 }
 
 p {
@@ -78,8 +78,10 @@ p-letter {
 }
 
 p-word {
-  &.invalid {
-    padding-bottom: 1px;
+  padding-bottom: 1px;
+  border-bottom: transparent solid 2px;
+  transition: border-color 0.3s ease-in-out;
+  &.marked {
     border-bottom: #daaf38 solid 2px;
   }
 }
@@ -90,5 +92,43 @@ p-word {
 
   60% {
     opacity: 0.2;
+  }
+}
+
+.game {
+  display: flex;
+}
+
+.results {
+  display: none;
+}
+
+h2 {
+  font-weight: 400;
+  margin: 0;
+  opacity: 0.4;
+  font-size: 16px;
+}
+
+h3 {
+  font-weight: 400;
+  margin: 0;
+  font-size: 24px;
+  color: var(--yellow);
+}
+
+button {
+  margin-top: 24px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  padding: 8px;
+  background: hsla(0, 0%, 100%, 0.1);
+  border: none;
+  border-radius: 4px;
+  transition: background 0.3s ease-in-out;
+
+  &:hover {
+    background: hsla(0, 0%, 100%, 0.2);
   }
 }
